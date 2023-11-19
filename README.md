@@ -84,4 +84,4 @@ Material UI
 Русский — Родной
 Английский — B1 — Средний
 
-[![wakatime](https://wakatime.com/badge/github/viwnu/viwnu.svg)](https://wakatime.com/badge/github/viwnu/viwnu)
+[![wakatime](https://wakatime.com/badge/user/018b3cd1-1165-469a-9c6e-0f9e286e8123.svg)](https://wakatime.com/@018b3cd1-1165-469a-9c6e-0f9e286e8123)
