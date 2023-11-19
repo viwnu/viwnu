@@ -83,3 +83,5 @@ Material UI
 Редактировать
 Русский — Родной
 Английский — B1 — Средний
+
+[![wakatime](https://wakatime.com/badge/github/viwnu/viwnu.svg)](https://wakatime.com/badge/github/viwnu/viwnu)
