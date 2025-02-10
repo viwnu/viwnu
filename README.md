@@ -22,8 +22,8 @@ Telegram: @MasterOfPupies — предпочитаемый способ связ
 email: craab@yandex.ru
 
 # Специализации:
-Backend Node.js (Express, Nest)
-Frontend React
+- Backend - [Node.js](https://nodejs.org/en) ([Express](https://expressjs.com/), [Nest](https://nestjs.com/))
+- Frontend - [React](https://react.dev/)
 
 # Мой опыт
 ## Backend:
